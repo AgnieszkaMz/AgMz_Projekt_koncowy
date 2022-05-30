@@ -1,7 +1,10 @@
 # MrBuggy3
 Etap I projektu końcowego realizowanego na zaliczenie kursu Tester Oprogramowania w SDA.
-Przygotowany w oparciu o dokumentację i aplikację MrBuggy3 1.2.0.146 oraz przy pomocy narzędzia TestRail.
+Przygotowany w oparciu o dokumentację i aplikację MrBuggy3 1.2.0.146 oraz przy pomocy narzędzi TestRail i Jira.
+
 Dostęp do TestRail: https://agmz.testrail.io/
+
+Dostęp do Jira: https://agmz19.atlassian.net/jira/software/projects/AGMZ/boards/1
 
 Projekt składa się z 6 części:
 
@@ -11,3 +14,4 @@ Projekt składa się z 6 części:
 4. [Testy eksploracyjne](https://github.com/AgnieszkaMz/AgMz_Projekt_koncowy/tree/main/Etap_1_MrBuggy3/4_testy_eksploracyjne)
 5. [Test Runs](https://github.com/AgnieszkaMz/AgMz_Projekt_koncowy/tree/main/Etap_1_MrBuggy3/5_test_run)
 6. [Raportowanie](https://github.com/AgnieszkaMz/AgMz_Projekt_koncowy/tree/main/Etap_1_MrBuggy3/6_raportowanie)
+7. [Jira](https://github.com/AgnieszkaMz/AgMz_Projekt_koncowy/tree/main/Etap_1_MrBuggy3/7_Jira)
