@@ -1,0 +1,50 @@
+ ,Wymaganie w oparciu o specyfikację
+1,"Wymagania środowiskowe do części klienckiej: WIndows 7, WIndows 8/8.1"
+2,W oknie aplikacji musi się znaleźć ikona MrBuggy 3
+3,"wymóg logowania przy użyciu loginu 2 do 8 znaków, login nie może zawierać białych znaków ani polskich znaków dialektycznych"
+4,Wersja demo posiada dwa zadania
+5,"Trzy wersje aplikacji - demo, koncowa, publiczna"
+6,Aplikacja MrBuggy 3 składa się z dwóch części - kliencka i serwerowa
+7,Wymagania środowiskowe do części serwerowej: WIndows 7
+8,część kliencka aplikacji w rozdzielczości 1024x 768
+9,W aplikacji dostępnych ma być nie mniej niż 15 zadań (problemów)
+10,"Wszystkie komunikaty, informacje oraz nazwy klawiszy w interfejsie graficznym muszą być w języku polskim."
+11,Ma generować dziennik zdarzeń części klienckiej
+12,Dane z części klienckiej dostarczane są do części serwerowej w postaci pliku tekstowego
+13,Utrata połączenia sieciowego nie może zakłócić pracy aplikacji
+14,aplikacja nie moze pobierac wiecej niz 100 MB pamieci
+15,Kolejność zadań wyświetlanych w części klienckiej powinna być losowa
+16,czas generowania raportu zbiorczego < 15s
+17,czas odpowiedzi interfejsu < 1 s
+18,wielkosc pliku kopi < 2MB
+19,50 raportow w jednym momencie
+20,Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz “Menu boczne” ułożone po prawej stronie.
+21,"kopia zapasowa generowana jako plik binarny, który zostanie wczytany po ponownym otwarciu aplikacji."
+22,"Aplikacja kliencka musi pracować w jednym z trzech trybów: kapitana drużyny, członka drużyny, zawodnika"
+23,W trybie członka drużyny możliwość raportowania defektów jest zablokowana
+24,Wybór trybu pracy dokonywany jest podczas logowania do aplikacji. Nie można zmienić trybu pracy w trakcie jej działania
+25,W każdym zadaniu ma być dokładnie jeden defekt
+26,Aplikacja nie może utracić danych w przypadku niespodziewanego jej zamknięcia
+27,Kopia zapasowa ma być tworzona po każdorazowym kliknięciu w przycisk “Znalazłem defekt”
+28,aplikacja przenośna bez instalatora
+29,"3 rodzaje klas defektów - trywialne, normalne, krytyczne"
+30,Dostęp do części serwerowej może być zrealizowany poprzez linię komend lub interfejs graficzny użytkownika części serwerowej
+31,"W skład menu bocznego wchodzą: 
+        ⁃        pole „czas”,- format gg:mm:ss
+        ⁃        pole „numer zadania”
+        ⁃        pole „opis problemu”
+        ⁃        pole „lista zadań”
+        ⁃        przyciski „następne” i „poprzednie”
+        ⁃        przycisk „zaraportuj defekt”
+        ⁃        przycisk „zakończ”
+        ⁃        okno „zadania”"
+32,konto musi zostać zablokowane po 3 krotnym wpisaniu błędnego hasła
+33,"różna ilość zadań w w wersji demo, końcowej oraz publicznej"
+34,przełączanie pomiędzy zadaniami nie może być dłuższe niż 1 sekunda
+35,"Rozpakowane archiwum ""zip"" z aplikacją musi zawierać plik wykonawczy, który uruchamia aplikację oraz wszystkie niezbędne biblioteki i zasoby."
+36,"MrBuggy 3 ma być aplikacją przenośną, która ma być dostarczona w postaci archiwum “zip”"
+37,"hasło musi składać się z co najmniej 10 znaków i zawierać przynajmniej jedną małą literę, jedną wielką literę, jedną cyfrę, jeden znak specjalny, nie może zawierać białych znaków ani polskich znaków dialektycznych"
+38,aplikacja serwerowa musi umożliwić komisji sędziowskiej zmianę ilości punktów
+39,Wszystkie zadania mają zostać zaimplementowane w aplikacji.
+40,"Dodatkowo aplikacja przypisuje: -2 punkty za zgłoszenie defektu, który jest poprawnie działającą funkcjonalnością,  0 punktów za nie zgłoszenie defektu zadaniu"
+41,hasła muszą być przechowywane w formacie zaszyfrowanym
