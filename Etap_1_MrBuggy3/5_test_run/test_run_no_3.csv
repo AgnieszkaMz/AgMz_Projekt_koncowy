@@ -1,0 +1,3 @@
+﻿"ID","Title","Case ID","Defects","Priority","Run","Run ID","Status"
+"T1","Sprawdzenie zgodności aplikacji z systemem operacyjnym Windows 7","C1","","Medium","Test Run no 3","R1","Passed"
+"T2","Ikona MrBuggy 3 widoczna w oknie aplikacji","C4","","Medium","Test Run no 3","R1","Passed"
