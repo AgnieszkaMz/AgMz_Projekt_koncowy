@@ -1,4 +1,4 @@
-Załączony plik zawiera nagranie przypadku testowego wykonanego przy pomocy Selenium IDE.
+Załączone pliki zawierają nagranie przypadku testowego wykonanego przy pomocy Selenium IDE oraz zrzut ekranu z widocznymi komendami, miejscami gdzie wykonuje sie akcja (obiekt), wartościami nadanymi.
 
 Poniżej opisany przypadek testowy:
 
