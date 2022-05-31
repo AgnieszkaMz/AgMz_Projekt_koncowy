@@ -1,3 +1,0 @@
-﻿"ID","Title","Case ID","Defects","Priority","Run","Run ID","Status"
-"T4","Sprawdzenie możliwości zarejestrowania się w aplikacji MrBuggy3 przy użyciu loginu o konkretnych wymaganiach","C2","","Medium","Test Run no 2","R2","Blocked"
-"T5","Sprawdzenie możliwości zarejestrowania się w aplikacji MrBuggy przy użyciu nazwy użytkownika z polskimi znakami","C6","","Low","Test Run no 2","R2","Failed"
