@@ -1,3 +1,0 @@
-﻿"ID","Title","Case ID","Defects","Priority","Run","Run ID","Status"
-"T7","Logowanie do aplikacji MrBuggy","C3","","Medium","Test Run no 1","R3","Blocked"
-"T8","Logowanie do aplikacji MrBuggy z loginem składającym się z 10 znaków","C5","","Low","Test Run no 1","R3","Blocked"
