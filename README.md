@@ -8,7 +8,7 @@ Składa sie ona 7 części, które mają na celu wskazanie takich umiejętności
 
 W tej części korzystałam głównie z dwóch narzędzi - TestRail oraz Jira.
 
-Do opracowania II etapu wykorzystałam aplikacje internetową https://www.saucedemo.com/ oraz API https://reqres.in. 
+Do opracowania II etapu wykorzystałam aplikacje internetową SwagLabs https://www.saucedemo.com/ oraz API https://reqres.in. 
 
 Składa się ona 4 części, które mają na celu wskazanie umiejętności obsługi dodatkowych narzędzi wykorzystywanych w pracy testera lub wykorzystania innych technik testowania.
 
