@@ -1,1 +1,1 @@
-
+Do zaprezentowania techniki Behavior Driven Development wykorzystane zostały przypadki testowe z aplikacji MrBuggy3 oraz aplikacji internetowej  https://www.saucedemo.com/ przygotowane we wcześniejszych etapach projektu. 
