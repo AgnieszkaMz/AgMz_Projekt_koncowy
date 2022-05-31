@@ -1,6 +1,6 @@
 # SwagLabs
 
-Etap II projektu końcowego realizowanego na zaliczenie kursu Tester Oprogramowania w SDA. Przygotowany w oparciu o aplikacje internetową https://www.saucedemo.com/ oraz przy użyciu API https://reqres.in
+Etap II projektu końcowego realizowanego na zaliczenie kursu Tester Oprogramowania w SDA. Przygotowany w oparciu o aplikacje internetową SwagLabs https://www.saucedemo.com/ oraz przy użyciu API https://reqres.in
 
 Składa się z 4 części:
 1. [Selenium IDE](https://github.com/AgnieszkaMz/AgMz_Projekt_koncowy/tree/main/Etap_2_SwagLabs/1_Selenium%20IDE)
