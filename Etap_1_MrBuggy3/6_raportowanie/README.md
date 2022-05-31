@@ -8,3 +8,4 @@ Plik Comparsion for Cases Results prezentuje mam porównanie wszystkich przypadk
 - 3 przypadki zablokowane.
 
 Plik Runs Summary podsumowuje nam Test Run.
+
