@@ -1,4 +1,4 @@
-Przy pomocy devtools możemy ingerować tymczasowo w kod aplikacji. W folderze znajduje się plik z nagraniem poniższego przykładu, gdzie prezentuje jak można pomieszać w frondendzie aplikacji.
+Przy pomocy devtools możemy ingerować tymczasowo w kod aplikacji. W folderze znajduje się plik z nagraniem poniższego przykładu, gdzie prezentuje jak można pomieszać w frondendzie aplikacji lub sprawdzić interesujące nas informacje.
 
 1. Ustaw tło na #0df94c
 2. Zmień czcionkę na "fantasy" rozmiar 20 px
